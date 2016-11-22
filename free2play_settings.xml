@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<settings version="0006">
+  <life>3</life><!--Начальное кол-во жизней-->
+  <life_time>25</life_time><!--Таймер восстановления жизней-->
+  
+  <recovery_roulette_time>3</recovery_roulette_time><!--Таймер восстановления рулетки-->
+  <delay_between_levels>3</delay_between_levels><!-- Таймер рекламы с последнего показа-->
+  <force_between_levels>2</force_between_levels><!--через сколько уровней намеренно показывать рекламу -->
+  <interstitial_between_levels>3</interstitial_between_levels><!--через сколько обычно показывать рекламу-->
+  
+  <interstitial_main_menu>True</interstitial_main_menu><!--Показывать рекламу после главного меню-->
+  <active_roulette>False</active_roulette>
+  <count_roulette>3</count_roulette>
+  <life_level_complete>4</life_level_complete><!--Жизни в панели конца уровня-->
+  
+  <DS_other_language>False</DS_other_language><!-- Активна ли панель для всех языков-->
+  <DS_ru_uk_language>False</DS_ru_uk_language>
+  <DS_other_language1>False</DS_other_language1>
+  <DS_ru_uk_language1>True</DS_ru_uk_language1>
+
+  <decrease_one_life_on_level_restart>False</decrease_one_life_on_level_restart>
+  <rotate_roulette_in_a_row>2</rotate_roulette_in_a_row>
+  <lifes_plus_after_ads_in_panel_level_complete>1</lifes_plus_after_ads_in_panel_level_complete>
+  
+  <rooms>
+    <room stars_to_unlock="0"/>
+    <room stars_to_unlock="3"/>
+    <room stars_to_unlock="60"/>
+    <room stars_to_unlock="125"/>
+    <room stars_to_unlock="190"/>
+  </rooms>
+</settings>
