@@ -1,1 +1,24 @@
-﻿{"life": "3"}
+﻿{
+  "life": 3,
+  "life_time": 25,
+  "recovery_roulette_time": 3,
+  "delay_between_levels": 3,
+  "force_between_levels": 2,
+  "interstitial_between_levels": 3,
+  "interstitial_main_menu": true,
+  "active_roulette": false,
+  "count_roulette": 3,
+  "life_level_complete": 3,
+  "DS_other_language1": false,
+  "DS_ru_uk_language1": false,
+  "decrease_one_life_on_level_restart": true,
+  "rotate_roulette_in_a_row": 2,
+  "lifes_plus_after_ads_in_panel_level_complete": 1,
+  "open_room_stars": [
+    0,
+    3,
+    60,
+    125,
+    190
+  ]
+}
