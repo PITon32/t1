@@ -10,7 +10,7 @@
   "count_roulette": 3,
   "life_level_complete": 3,
   "DS_other_language1": false,
-  "DS_ru_uk_language1": false,
+  "DS_ru_uk_language1": true,
   "decrease_one_life_on_level_restart": true,
   "rotate_roulette_in_a_row": 2,
   "lifes_plus_after_ads_in_panel_level_complete": 1,
