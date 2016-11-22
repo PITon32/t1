@@ -1,1 +1,8 @@
-﻿{"life": "3"}
+﻿{
+  "life": "3",
+  "life_time": "25",
+  "recovery_roulette_time": "3",
+  "delay_between_levels": "3",
+  "force_between_levels": "2",
+  "interstitial_between_levels": "3"
+}
