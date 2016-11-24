@@ -1,6 +1,6 @@
 ﻿{
   "life": 3,
-  "life_time": 25,
+  "life_time": 24,
   "recovery_roulette_time": 3,
   "delay_between_levels": 3,
   "force_between_levels": 2,
